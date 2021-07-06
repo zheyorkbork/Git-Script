@@ -1,0 +1,13 @@
+To run the script simply run
+"./git-script.sh"
+in the terminal
+
+
+Q: Why isn't this working?
+
+A1: if
+"./git-script.sh"
+doesn't work than try: sudo chmod +x git-script.sh
+and try running it again.
+
+A2: This script only works in an existing repository, if you're making a new repository this won't work.
